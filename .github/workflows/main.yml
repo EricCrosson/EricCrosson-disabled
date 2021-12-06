@@ -26,6 +26,9 @@ jobs:
           base: header
           config_timezone: ${{ secrets.USER_TIMEZONE }}
       
+  wakatime:
+    runs-on: ubuntu-latest
+    steps:
       - uses: lowlighter/metrics@latest
         with:
           # ... other options
