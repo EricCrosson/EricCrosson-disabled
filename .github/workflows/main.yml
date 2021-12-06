@@ -42,7 +42,7 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}      # Required
           plugin_wakatime_days: 7                                   # Display last week stats
           plugin_wakatime_sections: languages-graphs, editors-graphs  # do not show projects due to work environments
-          plugin_wakatime_limit: 3                                  # Show 4 entries per graph
+          plugin_wakatime_limit: 4                                  # Show 4 entries per graph
           plugin_wakatime_url: https://wakatime.com                 # Wakatime url endpoint
           plugin_wakatime_user: esc                                 # User
 
