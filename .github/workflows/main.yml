@@ -31,7 +31,16 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # ... other options
+          filename: wakatime.svg
+          # You'll need to setup a personal token in your secrets.
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          
+          user: ericcrosson
+          template: classic
+          base: header
+          config_timezone: ${{ secrets.USER_TIMEZONE }}          
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}      # Required
           plugin_wakatime_days: 7                                   # Display last week stats
@@ -39,13 +48,6 @@ jobs:
           plugin_wakatime_limit: 4                                  # Show 4 entries per graph
           plugin_wakatime_url: https://wakatime.com                 # Wakatime url endpoint
           plugin_wakatime_user: esc                                 # User
-          
-          # Options
-          user: ericcrosson
-          template: wakatime
-          base: header
-          config_timezone: ${{ secrets.USER_TIMEZONE }}
-
 
   acti_comm:
     runs-on: ubuntu-latest
