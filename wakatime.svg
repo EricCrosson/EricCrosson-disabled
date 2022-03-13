@@ -25,17 +25,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">sh</span>
-                                <div class="bar" style="width: 69.488%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">87%</span>
+                                <div class="bar" style="width: 68.744%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">86%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 10.448%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">13%</span>
+                                <div class="bar" style="width: 11.192%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">14%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">YAML</span>
-                                <div class="bar" style="width: 0.032%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.04%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
@@ -50,17 +50,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Zsh</span>
-                                <div class="bar" style="width: 69.488%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">87%</span>
+                                <div class="bar" style="width: 68.744%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">86%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Editor</span>
-                                <div class="bar" style="width: 10.431999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">13%</span>
+                                <div class="bar" style="width: 11.168%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">14%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Vim</span>
-                                <div class="bar" style="width: 0.08%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.08800000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
