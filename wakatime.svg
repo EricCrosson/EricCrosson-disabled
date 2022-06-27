@@ -24,14 +24,14 @@
                         <h3>Language activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">Other</span>
-                                <div class="bar" style="width: 40.343999999999994%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">50%</span>
+                                <span class="name">sh</span>
+                                <div class="bar" style="width: 44.256%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">55%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">sh</span>
-                                <div class="bar" style="width: 39.616%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">50%</span>
+                                <span class="name">Other</span>
+                                <div class="bar" style="width: 35.712%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">45%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TypeScript</span>
@@ -44,18 +44,18 @@
                         <h3>Code editors</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">Google Calendar</span>
-                                <div class="bar" style="width: 40.336%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">50%</span>
+                                <span class="name">Zsh</span>
+                                <div class="bar" style="width: 44.256%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">55%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Zsh</span>
-                                <div class="bar" style="width: 39.616%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">50%</span>
+                                <span class="name">Google Calendar</span>
+                                <div class="bar" style="width: 35.704%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">45%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Neovim</span>
-                                <div class="bar" style="width: 0.047999999999999994%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.04%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
