@@ -25,12 +25,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">sh</span>
-                                <div class="bar" style="width: 54.50399999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 54.264%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">68%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 25.496%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 25.727999999999994%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">32%</span>
                             </div>
                             <div class="entry">
@@ -50,12 +50,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Zsh</span>
-                                <div class="bar" style="width: 54.50399999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 54.264%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">68%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Google Calendar</span>
-                                <div class="bar" style="width: 25.488%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 25.727999999999994%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">32%</span>
                             </div>
                             <div class="entry">
